@@ -167,20 +167,33 @@ Total a pagar: RD$618.32
 
 Pantalla inicial del formulario.
 
-
-Registro de los datos del cliente y primer producto.
-
+![Pantalla inicial del formulario](PantallaInicialdelFormulario.png)
 
 
-Primer producto agregado al pedido.
+Registro de los datos del cliente y primer producto agregado.
+
+
+![Registro de los datos del cliente y primer producto](RegistroClienteProducto.png)
 
 Lista con los dos productos agregados.
 
+
+![Lista con los dos productos agregados](DosProductosAgregados.png)
+
+
 Pedido calculado con los resultados finales.
+
+
+![Pedido calculado con los resultados finales](PedidoCalculado.png)
+
+
+Registro de nuevo pedido.
+
+![Registro de nuevo pedido](NuevoPedido.png)
 
 Mensaje de confirmación antes de salir.
 
-
+![Mensaje de confirmación antes de salir](SalirDelPrograma.png)
 
 
 
