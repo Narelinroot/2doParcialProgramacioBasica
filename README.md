@@ -71,13 +71,13 @@ Confirmación antes de salir del programa.
 
 ## Desarrollo del ejercicio
 
-Nombre del ejercicio: Pedidos de la cafetería «El Buen Sabor».
+Nombre del ejercicio: Pedidos de la cafetería "El Buen Sabor".
 
 ### ¿Qué hará el programa?
 
 El programa permitirá registrar los datos del cliente y agregar diferentes productos a un pedido. También calculará el subtotal, aplicará el descuento correspondiente si el cliente es frecuente, agregará el costo de empaque cuando el servicio sea para llevar y calculará el ITBIS del 18 % para obtener el total a pagar.
 
-Clases y métodos utilizados:
+## Clases y métodos utilizados:
 
 Clase frmPedidos.
 
@@ -137,7 +137,7 @@ Se obtiene y muestra el total a pagar.
 
 ### Salida
 
-El programa muestra:
+#### El programa muestra:
 
 La lista de productos agregados al pedido.
 
@@ -163,37 +163,37 @@ ITBIS: RD$94.32
 
 Total a pagar: RD$618.32
 
-## Capturas de pantalla del programa en ejecución
+## Evidencias del funcionamiento del sistema
 
 Pantalla inicial del formulario.
 
-![Pantalla inicial del formulario](PantallaInicialdelFormulario.png)
+![Pantalla inicial del formulario](Capturas/PantallaInicialdelFormulario.png)
 
 
 Registro de los datos del cliente y primer producto agregado.
 
 
-![Registro de los datos del cliente y primer producto](RegistroClienteProducto.png)
+![Registro de los datos del cliente y primer producto](Capturas/RegistroClienteProducto.png)
 
-Lista con los dos productos agregados.
-
-
-![Lista con los dos productos agregados](DosProductosAgregados.png)
+Listado de productos incluidos en el pedido
 
 
-Pedido calculado con los resultados finales.
+![Lista con los dos productos agregados](Capturas/DosProductosAgregados.png)
 
 
-![Pedido calculado con los resultados finales](PedidoCalculado.png)
+Calculo del pedido y visualizacion de los resultados finales.
 
 
-Registro de nuevo pedido.
+![Pedido calculado con los resultados finales](Capturas/PedidoCalculado.png)
 
-![Registro de nuevo pedido](NuevoPedido.png)
 
-Mensaje de confirmación antes de salir.
+Restablecimiento del formulario para registrar un nuevo pedido.
 
-![Mensaje de confirmación antes de salir](SalirDelPrograma.png)
+![Registro de nuevo pedido](Capturas/NuevoPedido.png)
+
+Confirmacion de salida del sistema.
+
+![Mensaje de confirmación antes de salir](Capturas/SalirDelPrograma.png)
 
 
 
